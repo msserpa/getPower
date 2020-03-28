@@ -29,6 +29,7 @@
 *.dylib
 
 # Executables
+appPower
 *.exe
 *.out
 *.app
